@@ -1,0 +1,21 @@
+.area {
+  margin: 0 auto;
+  margin-top: 3rem;
+  width: 320px;
+  border: 1px dashed #dfdfdf;
+  border-radius: 6px;
+  padding: 2rem;
+  font-weight: 500;
+  color: #BDBDBD;
+  user-select: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: .75rem;
+}
+
+.areaDragOver {
+  border: 1px dashed #97BEF4;
+  background-color: #e1eaff;
+  color: #264eac;
+}
